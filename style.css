@@ -8,7 +8,7 @@ body {
 	background-color: #ffffff;
 	width: 1440px;
 	margin: auto;
-	/* overflow: hidden; */
+	overflow-x: hidden;
 	font-family: 'Poppins', sans-serif;
 	height: 120vh;
 }
@@ -63,7 +63,6 @@ li:first-child {
 .banner-container {
 	display: flex;
 	padding: 0 5%;
-	height: 85vh;
 }
 
 .heading-text {
