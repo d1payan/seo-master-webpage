@@ -6,3 +6,7 @@ This is the Project 1 of Full Stack JavaScript Bootcamp 2.0 by iNeuron.
 - CSS
 
 ### :rocket: [Live Link](https://seo-master-webpage.netlify.app)
+
+### Output:
+
+![seo-master-output](seo-master-output.png)
