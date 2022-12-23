@@ -6,7 +6,7 @@
 
 body {
 	background-color: #ffffff;
-	width: 1440px;
+	max-width: 1440px;
 	margin: auto;
 	overflow-x: hidden;
 	font-family: 'Poppins', sans-serif;
